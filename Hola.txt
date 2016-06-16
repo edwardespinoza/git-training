@@ -7,4 +7,11 @@ COMMIT 3
 COMMIT 4
 
 CHANGE COMMIT 2
+<<<<<<< HEAD
 ,,,,,,,,
+=======
+,,,,,,,,
+adsf
+asdf
+asdf
+>>>>>>> refs/heads/feature2
