@@ -6,5 +6,5 @@ COMMIT 3
 
 COMMIT 4
 
-CHANGE COMMIT 2
-,,,,,,,,
+CHANGE COMMIT 1
+..........
